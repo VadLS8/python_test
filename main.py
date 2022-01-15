@@ -7,6 +7,6 @@ def print_x(x):
 
 
 if __name__ == '__main__':
-    x = 8
+    y = 8
     print_hi('Schwester')
-    print_x(x)
+    print_x(y)
