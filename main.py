@@ -2,5 +2,11 @@ def print_hi(name):
     print(f'Hi, {name} !')
 
 
+def print_x(x):
+    print('Число равно', x)
+
+
 if __name__ == '__main__':
-    print_hi('World')
+    x = 8
+    print_hi('Schwester')
+    print_x(x)
